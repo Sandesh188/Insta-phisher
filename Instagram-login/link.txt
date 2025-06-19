@@ -1,0 +1,14 @@
+Pseudo-terminal will not be allocated because stdin is not a terminal.
+[32mForwarding HTTP traffic from https://1b239ff3918656845a5d98dae8aa229d.serveo.net
+[0mHTTP request from 49.43.231.224 to https://1b239ff3918656845a5d98dae8aa229d.serveo.net/
+HTTP request from 49.43.231.224 to https://1b239ff3918656845a5d98dae8aa229d.serveo.net/login.html
+HTTP request from 49.43.231.224 to https://1b239ff3918656845a5d98dae8aa229d.serveo.net/screenshot1.jpg
+HTTP request from 49.43.231.224 to https://1b239ff3918656845a5d98dae8aa229d.serveo.net/screenshot3.jpg
+HTTP request from 49.43.231.224 to https://1b239ff3918656845a5d98dae8aa229d.serveo.net/screenshot5.jpg
+HTTP request from 49.43.231.224 to https://1b239ff3918656845a5d98dae8aa229d.serveo.net/screenshot2.jpg
+HTTP request from 49.43.231.224 to https://1b239ff3918656845a5d98dae8aa229d.serveo.net/badge_ios_english-en.png
+HTTP request from 49.43.231.224 to https://1b239ff3918656845a5d98dae8aa229d.serveo.net/badge_android_english-en.png
+HTTP request from 49.43.231.224 to https://1b239ff3918656845a5d98dae8aa229d.serveo.net/screenshot4.jpg
+HTTP request from 49.43.231.224 to https://1b239ff3918656845a5d98dae8aa229d.serveo.net/sprite_core_2x_bcd90c1d4868.png
+HTTP request from 49.43.231.224 to https://1b239ff3918656845a5d98dae8aa229d.serveo.net/favicon.png
+HTTP request from 49.43.231.224 to https://1b239ff3918656845a5d98dae8aa229d.serveo.net/login.php
